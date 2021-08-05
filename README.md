@@ -3,5 +3,5 @@
 # Instalação
 
 
-pip install sympy
+pip install sympy 
 pip install numpy
