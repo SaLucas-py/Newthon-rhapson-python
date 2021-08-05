@@ -1,5 +1,5 @@
 # Newthon-rhapson-python
 
-#Instalação
+# Instalação
 pip install sympy
 pip install numpy
