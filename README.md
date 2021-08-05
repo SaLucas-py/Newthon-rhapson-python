@@ -14,6 +14,6 @@ Para isso, escolhe-se uma aproximação inicial para esta. Após isso, calcula-s
 
 # Exemplos de entrada
 
-Função: 2 * x**3 + 3 * x**2 - 2 <br/>
+Função: 2 * x ** 3 + 3 * x ** 2 - 2 <br/>
 Intervalos: 0.01 e 1 <br/>
 Interações: 10
